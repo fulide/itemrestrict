@@ -1,0 +1,16 @@
+{
+  "command.itemrestrict.empty_hand": "主手没有物品。",
+  "command.itemrestrict.empty_tag": "tag 不能为空。",
+  "command.itemrestrict.added": "已添加允许 tag：%s",
+  "command.itemrestrict.removed": "已移除允许 tag：%s",
+  "command.itemrestrict.cleared": "已清除主手物品的限制。",
+  "command.itemrestrict.none": "主手物品没有限制。",
+  "command.itemrestrict.locked": "主手物品已锁定：任何人都不能使用。",
+  "command.itemrestrict.info": "允许的 tag：%s",
+  "command.itemrestrict.tag_not_present": "主手物品没有允许 tag：%s",
+  "command.itemrestrict.check.allowed": "你可以使用主手物品。",
+  "command.itemrestrict.check.denied": "你不能使用主手物品。",
+  "message.itemrestrict.restricted": "你没有权限使用这件物品。",
+  "tooltip.itemrestrict.allowed_tags": "需要 tag：%s",
+  "tooltip.itemrestrict.locked": "已锁定：任何人都不能使用"
+}

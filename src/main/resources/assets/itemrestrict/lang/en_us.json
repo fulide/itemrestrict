@@ -1,0 +1,16 @@
+{
+  "command.itemrestrict.empty_hand": "You are not holding an item.",
+  "command.itemrestrict.empty_tag": "The tag cannot be empty.",
+  "command.itemrestrict.added": "Added allowed tag: %s",
+  "command.itemrestrict.removed": "Removed allowed tag: %s",
+  "command.itemrestrict.cleared": "Cleared the restriction from the held item.",
+  "command.itemrestrict.none": "The held item has no restriction.",
+  "command.itemrestrict.locked": "The held item is locked: nobody can use it.",
+  "command.itemrestrict.info": "Allowed tags: %s",
+  "command.itemrestrict.tag_not_present": "The held item does not allow tag: %s",
+  "command.itemrestrict.check.allowed": "You can use the held item.",
+  "command.itemrestrict.check.denied": "You cannot use the held item.",
+  "message.itemrestrict.restricted": "You are not allowed to use this item.",
+  "tooltip.itemrestrict.allowed_tags": "Requires tag: %s",
+  "tooltip.itemrestrict.locked": "Locked: nobody can use this item"
+}
